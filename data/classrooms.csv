@@ -1,0 +1,23 @@
+classroom_id,building,floor,seats,config_variant,equipment,last_av_refresh
+WIE-142,Wieboldt Hall,1,70,legacy_matrix_v1,projector;hdmi_matrix;crestron_mpc;wireless_mic;capture_appliance,2017-08-20
+WIE-251,Wieboldt Hall,2,64,legacy_matrix_v1,projector;hdmi_matrix;crestron_mpc;wireless_mic;capture_appliance,2017-08-20
+WIE-343,Wieboldt Hall,3,58,legacy_matrix_v1,projector;hdmi_matrix;crestron_mpc;wireless_mic;capture_appliance,2017-08-20
+WIE-355,Wieboldt Hall,3,58,legacy_matrix_v1,projector;hdmi_matrix;crestron_mpc;wireless_mic,2017-08-20
+WIE-312,Wieboldt Hall,3,48,legacy_matrix_v1,projector;hdmi_matrix;crestron_mpc;wireless_mic,2017-08-20
+WIE-105,Wieboldt Hall,1,85,nvx_standard,dual_projector;nvx_encoder;crestron_ts;wireless_mic;ptz_camera;capture_appliance,2023-08-15
+WIE-110,Wieboldt Hall,1,85,nvx_standard,dual_projector;nvx_encoder;crestron_ts;wireless_mic;ptz_camera;capture_appliance,2023-08-15
+WIE-148,Wieboldt Hall,1,60,nvx_standard,projector;nvx_encoder;crestron_ts;wireless_mic;ptz_camera;capture_appliance,2023-08-15
+WIE-205,Wieboldt Hall,2,60,nvx_standard,projector;nvx_encoder;crestron_ts;wireless_mic;ptz_camera;capture_appliance,2023-08-15
+WIE-246,Wieboldt Hall,2,55,nvx_early,projector;nvx_encoder;crestron_ts;wireless_mic;capture_appliance,2021-08-18
+WIE-258,Wieboldt Hall,2,55,nvx_early,projector;nvx_encoder;crestron_ts;wireless_mic;capture_appliance,2021-08-18
+WIE-306,Wieboldt Hall,3,48,nvx_standard,projector;nvx_encoder;crestron_ts;wireless_mic;capture_appliance,2023-08-15
+WIE-318,Wieboldt Hall,3,48,nvx_standard,projector;nvx_encoder;crestron_ts;wireless_mic,2023-08-15
+WIE-352,Wieboldt Hall,3,44,nvx_early,projector;nvx_encoder;crestron_ts;wireless_mic;capture_appliance,2021-08-18
+WIE-404,Wieboldt Hall,4,40,nvx_standard,projector;nvx_encoder;crestron_ts;table_mic;capture_appliance,2023-08-15
+WIE-412,Wieboldt Hall,4,40,nvx_standard,projector;nvx_encoder;crestron_ts;table_mic,2023-08-15
+WIE-441,Wieboldt Hall,4,36,nvx_standard,display_85in;nvx_encoder;crestron_ts;table_mic,2023-08-15
+WIE-455,Wieboldt Hall,4,36,nvx_early,display_85in;nvx_encoder;crestron_ts;table_mic,2021-08-18
+WIE-508,Wieboldt Hall,5,30,nvx_standard,display_85in;nvx_encoder;crestron_ts;table_mic,2023-08-15
+WIE-521,Wieboldt Hall,5,30,nvx_standard,display_85in;nvx_encoder;crestron_ts;table_mic,2023-08-15
+WIE-537,Wieboldt Hall,5,24,nvx_standard,display_85in;nvx_encoder;crestron_ts;table_mic,2023-08-15
+WIE-544,Wieboldt Hall,5,24,nvx_standard,display_85in;nvx_encoder;crestron_ts;table_mic,2023-08-15

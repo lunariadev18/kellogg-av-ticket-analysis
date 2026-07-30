@@ -1,0 +1,738 @@
+ticket_id,created_date,created_hour,created_weekday,classroom,room_attributed,av_configuration,category,subcategory,is_display_signal,is_repeat_14d,status,resolution_hours,resolution_band,requester,assigned_technician
+INC0200091,2025-01-06,11,Monday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Podium PC / login,No,No,Resolved,6.33,Same day (1-24h),Staff6497442,M. Reyes
+INC0200636,2025-01-08,19,Wednesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,36.27,Within a week,Faculty3660365,D. Lindqvist
+INC0200221,2025-01-09,12,Thursday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,594.87,Over a week,Staff2028617,S. Patel
+INC0200277,2025-01-10,10,Friday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,124.35,Within a week,Faculty5721409,A. Okafor
+INC0200725,2025-01-10,11,Friday,WIE-352,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,108.68,Within a week,Student7062035,D. Lindqvist
+INC0200222,2025-01-11,10,Saturday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,Yes,Resolved,144.62,Within a week,Staff745239,E. Marsh
+INC0200120,2025-01-11,11,Saturday,WIE-148,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,40.55,Within a week,Staff1521426,D. Lindqvist
+INC0200602,2025-01-11,17,Saturday,WIE-521,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.8,Under 1 hour,Faculty8671455,M. Reyes
+INC0200092,2025-01-13,11,Monday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,4.47,Same day (1-24h),Faculty1798619,J. Whitfield
+INC0200262,2025-01-13,13,Monday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,120.78,Within a week,Staff8806051,D. Lindqvist
+INC0200603,2025-01-14,12,Tuesday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,391.22,Over a week,Staff7267321,S. Patel
+INC0200011,2025-01-14,13,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,47.8,Within a week,Student8934396,A. Okafor
+INC0200023,2025-01-15,10,Wednesday,WIE-306,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,367.73,Over a week,Faculty3025086,M. Reyes
+INC0200382,2025-01-15,12,Wednesday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,393.8,Over a week,Faculty8613657,D. Lindqvist
+INC0200526,2025-01-16,10,Thursday,WIE-318,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,33.82,Within a week,Student5378156,M. Reyes
+INC0200546,2025-01-16,14,Thursday,WIE-544,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,0.65,Under 1 hour,Faculty4576284,M. Reyes
+INC0200033,2025-01-17,12,Friday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,523.1,Over a week,Faculty5629374,S. Patel
+INC0200278,2025-01-17,12,Friday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.12,Under 1 hour,Faculty3844489,M. Reyes
+INC0200089,2025-01-17,19,Friday,WIE-544,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,Yes,Resolved,5.35,Same day (1-24h),Staff1398494,J. Whitfield
+INC0200143,2025-01-18,11,Saturday,WIE-355,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,2.55,Same day (1-24h),Faculty1304657,D. Lindqvist
+INC0200634,2025-01-20,14,Monday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,1.77,Same day (1-24h),Faculty4587523,L. Ferreira
+INC0200657,2025-01-21,21,Tuesday,WIE-246,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,72.6,Within a week,Student683029,D. Lindqvist
+INC0200364,2025-01-22,9,Wednesday,WIE-312,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,34.12,Within a week,Faculty3917616,J. Whitfield
+INC0200369,2025-01-22,10,Wednesday,WIE-455,Yes,NVX early rollout (2021),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,11.95,Same day (1-24h),Faculty6029419,S. Patel
+INC0200667,2025-01-22,11,Wednesday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,26.73,Within a week,Faculty7371213,S. Patel
+INC0200119,2025-01-22,11,Wednesday,WIE-404,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,75.18,Within a week,Staff3259372,A. Okafor
+INC0200668,2025-01-23,8,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,0.32,Under 1 hour,Faculty9134227,D. Lindqvist
+INC0200365,2025-01-25,15,Saturday,WIE-312,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,Yes,Resolved,280.43,Over a week,Faculty2238592,S. Patel
+INC0200125,2025-01-26,11,Sunday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,5331.67,Over a week,Student6987128,D. Lindqvist
+INC0200727,2025-01-28,11,Tuesday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,19.22,Same day (1-24h),Faculty485555,R. Calloway
+INC0200074,2025-01-29,10,Wednesday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Input switching failure,Yes,No,Resolved,25.22,Within a week,Faculty8494180,A. Okafor
+INC0200549,2025-01-29,16,Wednesday,WIE-355,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,127.32,Within a week,Faculty8629221,J. Whitfield
+INC0200311,2025-01-30,20,Thursday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,5189.43,Over a week,Faculty7819248,A. Okafor
+INC0200075,2025-01-31,15,Friday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Input switching failure,Yes,Yes,Resolved,0.07,Under 1 hour,Staff3449026,J. Whitfield
+INC0200136,2025-02-01,8,Saturday,WIE-105,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,538.43,Over a week,Faculty2574074,A. Okafor
+INC0200728,2025-02-03,8,Monday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,26.17,Within a week,Staff4173610,D. Lindqvist
+INC0200651,2025-02-04,11,Tuesday,WIE-521,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,217.42,Over a week,Faculty7464100,R. Calloway
+INC0200669,2025-02-05,11,Wednesday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,56.23,Within a week,Faculty912514,S. Patel
+INC0200498,2025-02-05,12,Wednesday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,13.5,Same day (1-24h),Faculty9985048,A. Okafor
+INC0200729,2025-02-06,13,Thursday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,58.72,Within a week,Student8677501,A. Okafor
+INC0200245,2025-02-06,15,Thursday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.2,Same day (1-24h),Student1281637,A. Okafor
+INC0200381,2025-02-06,18,Thursday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,204.02,Over a week,Faculty1935138,A. Okafor
+INC0200650,2025-02-08,8,Saturday,WIE-110,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,344.97,Over a week,Student1827657,A. Okafor
+INC0200097,2025-02-08,16,Saturday,WIE-258,Yes,NVX early rollout (2021),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,3.22,Same day (1-24h),Staff6112120,M. Reyes
+INC0200137,2025-02-09,9,Sunday,WIE-105,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,Yes,Resolved,0.72,Under 1 hour,Faculty6839459,D. Lindqvist
+INC0200499,2025-02-09,18,Sunday,WIE-355,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,43.27,Within a week,Student7549418,D. Lindqvist
+INC0200025,2025-02-11,15,Tuesday,WIE-205,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,16.68,Same day (1-24h),Staff6988110,S. Patel
+INC0200653,2025-02-12,10,Wednesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,451.9,Over a week,Staff5940427,K. Duval
+INC0200573,2025-02-12,10,Wednesday,WIE-110,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.08,Under 1 hour,Faculty816644,S. Patel
+INC0200098,2025-02-13,20,Thursday,WIE-258,Yes,NVX early rollout (2021),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,1.52,Same day (1-24h),Faculty4388445,A. Okafor
+INC0200574,2025-02-14,10,Friday,WIE-110,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,15.32,Same day (1-24h),Faculty8986653,A. Okafor
+INC0200655,2025-02-14,14,Friday,WIE-404,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,19.57,Same day (1-24h),Faculty4409483,D. Lindqvist
+INC0200246,2025-02-18,8,Tuesday,WIE-105,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,86.53,Within a week,Faculty6457221,D. Lindqvist
+INC0200282,2025-02-18,11,Tuesday,WIE-355,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,64.02,Within a week,Student7477484,M. Reyes
+INC0200439,2025-02-18,17,Tuesday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,1.47,Same day (1-24h),Faculty838444,A. Okafor
+INC0200159,2025-02-20,8,Thursday,WIE-318,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,87.33,Within a week,Student8215648,A. Okafor
+INC0200656,2025-02-20,11,Thursday,WIE-404,Yes,NVX standard (2023),Consultation,AV consultation / training,No,Yes,Resolved,215.85,Over a week,Faculty1121645,A. Okafor
+INC0200173,2025-02-20,14,Thursday,WIE-312,Yes,Legacy matrix (2017),Webconferencing,Camera / PTZ,No,No,Resolved,46.43,Within a week,Staff9708272,A. Okafor
+INC0200628,2025-02-21,12,Friday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,42.05,Within a week,Faculty6367046,M. Reyes
+INC0200363,2025-02-22,14,Saturday,WIE-148,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,8.47,Same day (1-24h),Faculty5141667,A. Okafor
+INC0200492,2025-02-22,16,Saturday,WIE-352,Yes,NVX early rollout (2021),AV Technical Support,Podium PC / login,No,No,Resolved,1.6,Same day (1-24h),Faculty5294665,D. Lindqvist
+INC0200261,2025-02-24,12,Monday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,92.85,Within a week,Faculty5714153,R. Calloway
+INC0200596,2025-02-24,16,Monday,WIE-412,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,4.12,Same day (1-24h),Student1973613,K. Duval
+INC0200199,2025-02-25,18,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Open,,Open,Faculty5152393,S. Patel
+INC0200223,2025-02-26,8,Wednesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Faculty4427373,S. Patel
+INC0200388,2025-02-28,9,Friday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,0.52,Under 1 hour,Staff1531567,A. Okafor
+INC0200224,2025-03-01,8,Saturday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.28,Under 1 hour,Faculty2893004,E. Marsh
+INC0200708,2025-03-01,12,Saturday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,29.03,Within a week,Faculty9474521,D. Lindqvist
+INC0200247,2025-03-01,14,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,7.2,Same day (1-24h),Student1289469,M. Reyes
+INC0200301,2025-03-05,10,Wednesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,5.55,Same day (1-24h),Staff1828361,A. Okafor
+INC0200597,2025-03-05,20,Wednesday,WIE-412,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,148.07,Within a week,Faculty6330518,T. Nakamura
+INC0200389,2025-03-06,14,Thursday,WIE-318,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,15.85,Same day (1-24h),Faculty6156585,A. Okafor
+INC0200604,2025-03-06,15,Thursday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,1840.97,Over a week,Staff4849651,K. Duval
+INC0200197,2025-03-07,11,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,0.48,Under 1 hour,Student2803013,M. Reyes
+INC0200200,2025-03-08,8,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.48,Under 1 hour,Staff3806372,A. Okafor
+INC0200198,2025-03-09,10,Sunday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,0.23,Under 1 hour,Student3991243,M. Reyes
+INC0200067,2025-03-10,13,Monday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,86.0,Within a week,Faculty1868359,A. Okafor
+INC0200370,2025-03-11,9,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.7,Under 1 hour,Faculty7524519,L. Ferreira
+INC0200500,2025-03-11,13,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Staff9725477,J. Whitfield
+INC0200066,2025-03-11,17,Tuesday,WIE-105,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,60.63,Within a week,Faculty8719611,A. Okafor
+INC0200371,2025-03-12,9,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,3.02,Same day (1-24h),Faculty9810612,M. Reyes
+INC0200579,2025-03-12,12,Wednesday,WIE-521,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Open,,Open,Student5563357,M. Reyes
+INC0200035,2025-03-12,20,Wednesday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,36.95,Within a week,Staff9533009,S. Patel
+INC0200713,2025-03-13,9,Thursday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,30.1,Within a week,Faculty4142366,A. Okafor
+INC0200153,2025-03-13,19,Thursday,WIE-312,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,134.32,Within a week,Student5325586,M. Reyes
+INC0200178,2025-03-14,15,Friday,WIE-318,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,50.6,Within a week,Faculty9161262,A. Okafor
+INC0200179,2025-03-18,14,Tuesday,WIE-318,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,Yes,Resolved,0.03,Under 1 hour,Faculty3301483,A. Okafor
+INC0200042,2025-03-19,18,Wednesday,Unattributed,No,Unattributed,Webconferencing,Camera / PTZ,No,No,Open,,Open,Faculty4236131,A. Okafor
+INC0200448,2025-03-20,10,Thursday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,23.23,Same day (1-24h),Faculty5949294,D. Lindqvist
+INC0200217,2025-03-20,12,Thursday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,27.4,Within a week,Student5379286,M. Reyes
+INC0200043,2025-03-21,13,Friday,WIE-105,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,28.92,Within a week,Faculty2040059,S. Patel
+INC0200501,2025-03-22,9,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,75.93,Within a week,Staff8715657,D. Lindqvist
+INC0200099,2025-03-24,9,Monday,WIE-544,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,1.28,Same day (1-24h),Faculty2952239,E. Marsh
+INC0200036,2025-03-24,9,Monday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,7.45,Same day (1-24h),Student9937633,M. Reyes
+INC0200512,2025-03-25,12,Tuesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,3.67,Same day (1-24h),Student748674,A. Okafor
+INC0200583,2025-03-26,9,Wednesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,4.18,Same day (1-24h),Student4798572,D. Lindqvist
+INC0200663,2025-03-26,21,Wednesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,16.85,Same day (1-24h),Faculty6394226,D. Lindqvist
+INC0200420,2025-03-28,13,Friday,WIE-343,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Open,,Open,Student4026671,T. Nakamura
+INC0200534,2025-03-28,15,Friday,WIE-312,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,44.13,Within a week,Student3634483,T. Nakamura
+INC0200449,2025-03-29,17,Saturday,WIE-258,Yes,NVX early rollout (2021),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.03,Under 1 hour,Faculty8068449,T. Nakamura
+INC0200068,2025-03-31,10,Monday,WIE-412,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,0.08,Under 1 hour,Staff1724507,S. Patel
+INC0200535,2025-04-01,15,Tuesday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,344.78,Over a week,Student9077130,J. Whitfield
+INC0200368,2025-04-02,18,Wednesday,WIE-148,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,49.42,Within a week,Student2444110,A. Okafor
+INC0200046,2025-04-05,11,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.17,Under 1 hour,Student8299320,T. Nakamura
+INC0200158,2025-04-06,11,Sunday,WIE-455,Yes,NVX early rollout (2021),AV Technical Support,Audio / microphone,No,No,Resolved,1.62,Same day (1-24h),Staff8209436,M. Reyes
+INC0200631,2025-04-06,11,Sunday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,842.62,Over a week,Student5869019,A. Okafor
+INC0200584,2025-04-06,14,Sunday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Open,,Open,Student4327381,D. Lindqvist
+INC0200146,2025-04-07,9,Monday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.75,Under 1 hour,Staff5091082,D. Lindqvist
+INC0200470,2025-04-07,9,Monday,WIE-148,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.07,Under 1 hour,Faculty8850031,D. Lindqvist
+INC0200522,2025-04-07,13,Monday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.72,Under 1 hour,Student8070110,A. Okafor
+INC0200568,2025-04-08,8,Tuesday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Capture scheduling / setup,No,No,Resolved,229.92,Over a week,Student8858188,M. Reyes
+INC0200723,2025-04-09,10,Wednesday,WIE-142,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,41.5,Within a week,Faculty3179119,M. Reyes
+INC0200281,2025-04-09,16,Wednesday,WIE-110,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,8.97,Same day (1-24h),Staff2845524,M. Reyes
+INC0200542,2025-04-10,14,Thursday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,2818.37,Over a week,Staff673232,M. Reyes
+INC0200276,2025-04-11,16,Friday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,18.47,Same day (1-24h),Faculty2963570,M. Reyes
+INC0200069,2025-04-11,18,Friday,WIE-412,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,Yes,Resolved,6.4,Same day (1-24h),Faculty6915376,M. Reyes
+INC0200041,2025-04-12,10,Saturday,WIE-105,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,4.05,Same day (1-24h),Faculty8851022,M. Reyes
+INC0200296,2025-04-13,11,Sunday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,39.12,Within a week,Faculty6114225,D. Lindqvist
+INC0200627,2025-04-14,11,Monday,WIE-105,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,1748.05,Over a week,Staff568138,S. Patel
+INC0200569,2025-04-14,14,Monday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Capture scheduling / setup,No,Yes,Resolved,6.33,Same day (1-24h),Faculty4931357,S. Patel
+INC0200703,2025-04-15,9,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,11.08,Same day (1-24h),Faculty2597070,R. Calloway
+INC0200015,2025-04-15,10,Tuesday,WIE-148,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,0.68,Under 1 hour,Staff1222057,D. Lindqvist
+INC0200337,2025-04-15,11,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,16.9,Same day (1-24h),Faculty8522511,J. Whitfield
+INC0200112,2025-04-15,12,Tuesday,WIE-110,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,17.0,Same day (1-24h),Student2362599,A. Okafor
+INC0200589,2025-04-16,16,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,4.97,Same day (1-24h),Student8327419,M. Reyes
+INC0200208,2025-04-17,9,Thursday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,2399.53,Over a week,Faculty8108193,D. Lindqvist
+INC0200645,2025-04-17,13,Thursday,WIE-105,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,747.92,Over a week,Staff4743104,S. Patel
+INC0200523,2025-04-17,16,Thursday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,0.18,Under 1 hour,Student4902132,J. Whitfield
+INC0200124,2025-04-19,14,Saturday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,1.7,Same day (1-24h),Faculty5149456,E. Marsh
+INC0200465,2025-04-19,17,Saturday,WIE-508,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,99.75,Within a week,Faculty3057273,E. Marsh
+INC0200570,2025-04-20,16,Sunday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Capture scheduling / setup,No,Yes,Resolved,8084.1,Over a week,Staff9656570,J. Whitfield
+INC0200338,2025-04-21,11,Monday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,502.73,Over a week,Faculty8956504,A. Okafor
+INC0200113,2025-04-21,13,Monday,WIE-110,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,Yes,Resolved,28.07,Within a week,Faculty4431570,A. Okafor
+INC0200413,2025-04-22,17,Tuesday,WIE-306,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,198.63,Over a week,Faculty8543227,T. Nakamura
+INC0200648,2025-04-22,18,Tuesday,WIE-105,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,1943.25,Over a week,Faculty5063233,M. Reyes
+INC0200419,2025-04-23,9,Wednesday,WIE-246,Yes,NVX early rollout (2021),Setup & Configuration,Event / class AV setup,No,No,Resolved,56.63,Within a week,Student9041088,L. Ferreira
+INC0200427,2025-04-23,18,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.28,Same day (1-24h),Faculty4168508,S. Patel
+INC0200390,2025-04-23,18,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,20.55,Same day (1-24h),Staff3504056,L. Ferreira
+INC0200297,2025-04-24,12,Thursday,WIE-205,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,0.27,Under 1 hour,Faculty4012643,S. Patel
+INC0200646,2025-04-24,14,Thursday,WIE-105,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,Yes,Resolved,24.55,Within a week,Staff5911365,R. Calloway
+INC0200243,2025-04-24,16,Thursday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,0.4,Under 1 hour,Faculty4094539,D. Lindqvist
+INC0200478,2025-04-26,15,Saturday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,228.52,Over a week,Student5577018,E. Marsh
+INC0200372,2025-04-28,9,Monday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.87,Under 1 hour,Staff6219142,R. Calloway
+INC0200466,2025-04-28,12,Monday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,8.97,Same day (1-24h),Faculty2626626,S. Patel
+INC0200513,2025-04-28,16,Monday,WIE-306,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,237.07,Over a week,Faculty8643506,M. Reyes
+INC0200319,2025-04-29,8,Tuesday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,1.18,Same day (1-24h),Faculty7863327,S. Patel
+INC0200189,2025-04-29,10,Tuesday,WIE-355,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,415.42,Over a week,Student2946323,S. Patel
+INC0200256,2025-04-29,11,Tuesday,WIE-142,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,19.87,Same day (1-24h),Student8642263,A. Okafor
+INC0200590,2025-04-29,13,Tuesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,35.0,Within a week,Student3894074,S. Patel
+INC0200079,2025-04-30,10,Wednesday,WIE-318,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,839.35,Over a week,Staff5395564,A. Okafor
+INC0200544,2025-04-30,10,Wednesday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,454.65,Over a week,Faculty7014617,R. Calloway
+INC0200484,2025-04-30,17,Wednesday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,0.8,Under 1 hour,Student9926586,R. Calloway
+INC0200488,2025-05-01,17,Thursday,WIE-455,Yes,NVX early rollout (2021),AV Technical Support,Control system / touch panel,No,No,Resolved,0.13,Under 1 hour,Faculty3240656,A. Okafor
+INC0200503,2025-05-01,18,Thursday,WIE-355,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,1599.32,Over a week,Faculty9157403,R. Calloway
+INC0200373,2025-05-02,10,Friday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,7.95,Same day (1-24h),Faculty1920212,M. Reyes
+INC0200489,2025-05-03,8,Saturday,WIE-110,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,61.8,Within a week,Student8427212,D. Lindqvist
+INC0200649,2025-05-03,12,Saturday,WIE-105,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,Yes,Resolved,343.75,Over a week,Student8708440,S. Patel
+INC0200056,2025-05-03,12,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,3.42,Same day (1-24h),Staff3904472,T. Nakamura
+INC0200467,2025-05-04,8,Sunday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,8.03,Same day (1-24h),Faculty4325348,A. Okafor
+INC0200428,2025-05-04,8,Sunday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,11.27,Same day (1-24h),Student9884361,A. Okafor
+INC0200187,2025-05-05,11,Monday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,23.88,Same day (1-24h),Faculty8714545,R. Calloway
+INC0200016,2025-05-05,14,Monday,WIE-251,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,38.4,Within a week,Student4451267,A. Okafor
+INC0200190,2025-05-05,16,Monday,WIE-355,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,51.8,Within a week,Staff3184122,A. Okafor
+INC0200121,2025-05-06,11,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,2.87,Same day (1-24h),Faculty2036047,D. Lindqvist
+INC0200191,2025-05-06,14,Tuesday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,23.57,Same day (1-24h),Staff2237181,E. Marsh
+INC0200399,2025-05-07,8,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,4.83,Same day (1-24h),Faculty4644056,A. Okafor
+INC0200283,2025-05-07,16,Wednesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,15.78,Same day (1-24h),Student1463328,A. Okafor
+INC0200359,2025-05-08,16,Thursday,WIE-205,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,2195.62,Over a week,Faculty8156366,T. Nakamura
+INC0200514,2025-05-09,9,Friday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,517.13,Over a week,Faculty2945106,T. Nakamura
+INC0200214,2025-05-09,17,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,302.35,Over a week,Faculty9693294,E. Marsh
+INC0200426,2025-05-10,9,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,2.45,Same day (1-24h),Faculty4461181,A. Okafor
+INC0200690,2025-05-10,9,Saturday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,2.95,Same day (1-24h),Staff1907180,J. Whitfield
+INC0200429,2025-05-10,12,Saturday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,14.08,Same day (1-24h),Staff845595,D. Lindqvist
+INC0200400,2025-05-10,12,Saturday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.3,Under 1 hour,Staff3238178,E. Marsh
+INC0200284,2025-05-10,15,Saturday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,0.87,Under 1 hour,Staff675130,R. Calloway
+INC0200215,2025-05-11,8,Sunday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.55,Under 1 hour,Faculty6353419,M. Reyes
+INC0200050,2025-05-13,8,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,1.87,Same day (1-24h),Staff1958059,D. Lindqvist
+INC0200435,2025-05-14,15,Wednesday,WIE-312,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,15.83,Same day (1-24h),Student3563472,L. Ferreira
+INC0200001,2025-05-16,10,Friday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.55,Same day (1-24h),Staff9295494,A. Okafor
+INC0200629,2025-05-16,14,Friday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,0.83,Under 1 hour,Staff3810086,D. Lindqvist
+INC0200002,2025-05-18,18,Sunday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,0.43,Under 1 hour,Student1619263,T. Nakamura
+INC0200285,2025-05-18,20,Sunday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,9.65,Same day (1-24h),Student9780447,S. Patel
+INC0200691,2025-05-19,20,Monday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,1341.28,Over a week,Student9158271,D. Lindqvist
+INC0200087,2025-05-20,12,Tuesday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,73.42,Within a week,Faculty8552445,M. Reyes
+INC0200732,2025-05-21,7,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.9,Under 1 hour,Student1144267,A. Okafor
+INC0200269,2025-05-21,8,Wednesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,65.7,Within a week,Faculty6644060,D. Lindqvist
+INC0200642,2025-05-22,12,Thursday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.23,Under 1 hour,Staff2635111,R. Calloway
+INC0200051,2025-05-23,15,Friday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,511.3,Over a week,Student4626106,T. Nakamura
+INC0200003,2025-05-24,11,Saturday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Resolved,5.93,Same day (1-24h),Staff6025254,J. Whitfield
+INC0200506,2025-05-24,13,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.18,Same day (1-24h),Student7342448,A. Okafor
+INC0200058,2025-05-25,21,Sunday,WIE-110,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Open,,Open,Staff4789613,M. Reyes
+INC0200688,2025-05-26,10,Monday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,85.55,Within a week,Faculty5794549,E. Marsh
+INC0200304,2025-05-27,10,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,8.5,Same day (1-24h),Faculty6114112,M. Reyes
+INC0200114,2025-05-27,11,Tuesday,WIE-343,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,418.58,Over a week,Faculty9495237,S. Patel
+INC0200621,2025-05-27,11,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,1.52,Same day (1-24h),Staff6226523,M. Reyes
+INC0200331,2025-05-27,13,Tuesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,4.67,Same day (1-24h),Student682405,A. Okafor
+INC0200242,2025-05-27,16,Tuesday,WIE-148,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,229.5,Over a week,Staff1606454,M. Reyes
+INC0200306,2025-05-27,16,Tuesday,WIE-412,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,13.08,Same day (1-24h),Faculty9968618,M. Reyes
+INC0200004,2025-05-28,11,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,Yes,Resolved,0.45,Under 1 hour,Faculty6077222,M. Reyes
+INC0200211,2025-05-28,13,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.42,Under 1 hour,Student1145093,M. Reyes
+INC0200561,2025-05-29,14,Thursday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,4.97,Same day (1-24h),Faculty4146585,A. Okafor
+INC0200040,2025-05-29,14,Thursday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,28.15,Within a week,Faculty2076215,D. Lindqvist
+INC0200286,2025-05-30,11,Friday,WIE-105,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,28.58,Within a week,Faculty7787295,M. Reyes
+INC0200325,2025-05-30,16,Friday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,290.93,Over a week,Faculty8269379,M. Reyes
+INC0200622,2025-05-31,17,Saturday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,5.18,Same day (1-24h),Student3808611,A. Okafor
+INC0200515,2025-06-01,16,Sunday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,8.93,Same day (1-24h),Student7983164,M. Reyes
+INC0200088,2025-06-02,11,Monday,WIE-537,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,123.82,Within a week,Faculty5827196,A. Okafor
+INC0200733,2025-06-02,18,Monday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,5.02,Same day (1-24h),Staff5718442,M. Reyes
+INC0200643,2025-06-03,17,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.53,Same day (1-24h),Faculty1797188,T. Nakamura
+INC0200307,2025-06-04,14,Wednesday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,0.15,Under 1 hour,Student8369512,D. Lindqvist
+INC0200133,2025-06-05,9,Thursday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,0.97,Under 1 hour,Faculty5226167,D. Lindqvist
+INC0200562,2025-06-05,11,Thursday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,99.4,Within a week,Faculty1687237,E. Marsh
+INC0200047,2025-06-06,11,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,Yes,Resolved,1.2,Same day (1-24h),Faculty2970648,M. Reyes
+INC0200332,2025-06-07,18,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,22.78,Same day (1-24h),Staff5269252,A. Okafor
+INC0200134,2025-06-09,8,Monday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,12.17,Same day (1-24h),Faculty5504110,D. Lindqvist
+INC0200305,2025-06-09,9,Monday,WIE-544,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,0.03,Under 1 hour,Faculty8005608,T. Nakamura
+INC0200308,2025-06-09,12,Monday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,7.77,Same day (1-24h),Faculty8321064,J. Whitfield
+INC0200504,2025-06-09,12,Monday,WIE-142,Yes,Legacy matrix (2017),Webconferencing,Camera / PTZ,No,No,Resolved,85.52,Within a week,Faculty275313,A. Okafor
+INC0200541,2025-06-09,16,Monday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,12.78,Same day (1-24h),Staff2133597,T. Nakamura
+INC0200164,2025-06-10,7,Tuesday,WIE-355,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Open,,Open,Faculty3570169,R. Calloway
+INC0200485,2025-06-10,8,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,5.37,Same day (1-24h),Faculty5531197,T. Nakamura
+INC0200147,2025-06-10,11,Tuesday,WIE-110,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,33.1,Within a week,Faculty8144269,T. Nakamura
+INC0200674,2025-06-10,17,Tuesday,WIE-110,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,9.68,Same day (1-24h),Faculty1352458,M. Reyes
+INC0200186,2025-06-11,8,Wednesday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,802.7,Over a week,Faculty3166292,A. Okafor
+INC0200575,2025-06-11,9,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.73,Same day (1-24h),Staff3775104,D. Lindqvist
+INC0200031,2025-06-11,13,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,0.12,Under 1 hour,Staff196327,A. Okafor
+INC0200505,2025-06-12,15,Thursday,Unattributed,No,Unattributed,Webconferencing,Camera / PTZ,No,No,Resolved,58.37,Within a week,Staff7271553,T. Nakamura
+INC0200563,2025-06-14,17,Saturday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,5.37,Same day (1-24h),Staff4621293,M. Reyes
+INC0200225,2025-06-17,9,Tuesday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,508.47,Over a week,Student2271133,K. Duval
+INC0200626,2025-06-17,17,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,1.85,Same day (1-24h),Faculty6057111,D. Lindqvist
+INC0200486,2025-06-17,18,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,1.45,Same day (1-24h),Faculty5996538,A. Okafor
+INC0200039,2025-06-17,18,Tuesday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,8.25,Same day (1-24h),Student8141410,R. Calloway
+INC0200441,2025-06-17,19,Tuesday,WIE-312,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,155.0,Within a week,Staff195442,A. Okafor
+INC0200576,2025-06-18,10,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,44.67,Within a week,Student2878093,A. Okafor
+INC0200209,2025-06-18,17,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,1.68,Same day (1-24h),Staff3726630,J. Whitfield
+INC0200135,2025-06-18,19,Wednesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,2.77,Same day (1-24h),Faculty5870623,J. Whitfield
+INC0200102,2025-06-19,19,Thursday,WIE-355,Yes,Legacy matrix (2017),Webconferencing,Camera / PTZ,No,No,Resolved,1297.12,Over a week,Faculty1630511,M. Reyes
+INC0200487,2025-06-21,16,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,6.5,Same day (1-24h),Faculty443211,M. Reyes
+INC0200593,2025-06-23,9,Monday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,1.35,Same day (1-24h),Faculty8099096,J. Whitfield
+INC0200637,2025-06-23,17,Monday,WIE-105,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.6,Under 1 hour,Student9688169,M. Reyes
+INC0200096,2025-06-23,22,Monday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,2488.37,Over a week,Faculty2721441,S. Patel
+INC0200684,2025-06-24,9,Tuesday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Audio / microphone,No,No,Resolved,14.22,Same day (1-24h),Student728582,A. Okafor
+INC0200640,2025-06-24,13,Tuesday,WIE-205,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,83.0,Within a week,Staff4075259,D. Lindqvist
+INC0200638,2025-06-24,19,Tuesday,WIE-105,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,8.37,Same day (1-24h),Staff4380315,A. Okafor
+INC0200493,2025-06-25,9,Wednesday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,726.77,Over a week,Faculty9046287,D. Lindqvist
+INC0200594,2025-06-28,12,Saturday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,94.58,Within a week,Faculty6869288,R. Calloway
+INC0200172,2025-06-30,15,Monday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,164.4,Within a week,Faculty8400662,D. Lindqvist
+INC0200148,2025-06-30,19,Monday,WIE-343,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,9.1,Same day (1-24h),Student4873170,D. Lindqvist
+INC0200641,2025-07-03,18,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,34.32,Within a week,Student7640640,A. Okafor
+INC0200685,2025-07-06,13,Sunday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Audio / microphone,No,Yes,Resolved,7.27,Same day (1-24h),Student230046,D. Lindqvist
+INC0200525,2025-07-08,18,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,2312.98,Over a week,Faculty150653,T. Nakamura
+INC0200617,2025-07-10,16,Thursday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,56.82,Within a week,Faculty6417444,A. Okafor
+INC0200149,2025-07-13,12,Sunday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,462.12,Over a week,Staff1311662,D. Lindqvist
+INC0200517,2025-07-17,14,Thursday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,0.18,Under 1 hour,Faculty6231439,M. Reyes
+INC0200220,2025-07-17,15,Thursday,WIE-246,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Cabling / connectors,No,No,Open,,Open,Staff2124376,D. Lindqvist
+INC0200126,2025-07-18,15,Friday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,560.45,Over a week,Faculty3748420,R. Calloway
+INC0200328,2025-07-25,9,Friday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Resolved,104.07,Within a week,Faculty1890495,R. Calloway
+INC0200248,2025-07-30,17,Wednesday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,31.18,Within a week,Faculty6213571,D. Lindqvist
+INC0200619,2025-08-04,14,Monday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,0.68,Under 1 hour,Faculty8742043,A. Okafor
+INC0200518,2025-08-06,11,Wednesday,WIE-355,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Open,,Open,Faculty5811648,A. Okafor
+INC0200347,2025-08-07,19,Thursday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,89.07,Within a week,Faculty8074127,M. Reyes
+INC0200519,2025-08-08,11,Friday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Staff4266550,M. Reyes
+INC0200244,2025-08-11,14,Monday,WIE-441,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,2.82,Same day (1-24h),Faculty1449276,A. Okafor
+INC0200520,2025-08-19,9,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,4.72,Same day (1-24h),Faculty7029422,M. Reyes
+INC0200548,2025-08-19,11,Tuesday,WIE-251,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,658.1,Over a week,Faculty8514208,S. Patel
+INC0200144,2025-08-19,12,Tuesday,WIE-306,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,478.07,Over a week,Staff9188381,A. Okafor
+INC0200145,2025-08-21,14,Thursday,WIE-306,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,0.57,Under 1 hour,Faculty9267626,S. Patel
+INC0200536,2025-08-22,13,Friday,WIE-544,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,8.85,Same day (1-24h),Student986668,M. Reyes
+INC0200454,2025-08-27,8,Wednesday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,62.37,Within a week,Faculty5239621,S. Patel
+INC0200521,2025-08-28,18,Thursday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.08,Under 1 hour,Student9481055,M. Reyes
+INC0200455,2025-09-01,14,Monday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,19.67,Same day (1-24h),Faculty7344461,T. Nakamura
+INC0200061,2025-09-02,17,Tuesday,WIE-205,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,4.83,Same day (1-24h),Faculty1875531,M. Reyes
+INC0200404,2025-09-04,14,Thursday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,7.87,Same day (1-24h),Staff4663613,J. Whitfield
+INC0200108,2025-09-04,14,Thursday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,281.73,Over a week,Staff2046565,M. Reyes
+INC0200362,2025-09-04,14,Thursday,WIE-355,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.03,Under 1 hour,Staff3229038,A. Okafor
+INC0200205,2025-09-05,14,Friday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Faculty5635286,S. Patel
+INC0200403,2025-09-09,21,Tuesday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,2.52,Same day (1-24h),Student1823411,A. Okafor
+INC0200265,2025-09-10,9,Wednesday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,112.25,Within a week,Faculty9235355,S. Patel
+INC0200206,2025-09-13,15,Saturday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,13.27,Same day (1-24h),Faculty6928231,A. Okafor
+INC0200201,2025-09-14,16,Sunday,WIE-205,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,552.93,Over a week,Staff7903475,D. Lindqvist
+INC0200434,2025-09-16,9,Tuesday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,356.98,Over a week,Faculty573264,D. Lindqvist
+INC0200393,2025-09-16,13,Tuesday,WIE-148,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Open,,Open,Staff9620609,S. Patel
+INC0200077,2025-09-17,9,Wednesday,WIE-110,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,780.33,Over a week,Faculty6660356,L. Ferreira
+INC0200405,2025-09-17,17,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,1.1,Same day (1-24h),Staff2514424,A. Okafor
+INC0200266,2025-09-19,13,Friday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,Yes,Open,,Open,Faculty2051602,M. Reyes
+INC0200207,2025-09-20,12,Saturday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,2.27,Same day (1-24h),Faculty8403061,T. Nakamura
+INC0200516,2025-09-20,14,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Open,,Open,Faculty2603511,J. Whitfield
+INC0200543,2025-09-20,20,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,2751.5,Over a week,Student5869276,M. Reyes
+INC0200078,2025-09-22,11,Monday,Unattributed,No,Unattributed,Webconferencing,Camera / PTZ,No,No,Open,,Open,Student8455094,E. Marsh
+INC0200127,2025-09-22,12,Monday,WIE-312,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,41.82,Within a week,Staff4043624,M. Reyes
+INC0200339,2025-09-23,9,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.67,Under 1 hour,Student8840645,E. Marsh
+INC0200724,2025-09-23,11,Tuesday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.58,Under 1 hour,Faculty1453389,S. Patel
+INC0200264,2025-09-23,11,Tuesday,WIE-318,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,13.47,Same day (1-24h),Faculty216595,M. Reyes
+INC0200496,2025-09-24,19,Wednesday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,13.92,Same day (1-24h),Staff5910671,A. Okafor
+INC0200453,2025-09-24,19,Wednesday,WIE-306,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,4.5,Same day (1-24h),Student1240666,D. Lindqvist
+INC0200076,2025-09-25,10,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,42.68,Within a week,Faculty7632338,J. Whitfield
+INC0200437,2025-09-27,17,Saturday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Open,,Open,Faculty6458404,E. Marsh
+INC0200559,2025-09-29,11,Monday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,12.98,Same day (1-24h),Faculty7131579,A. Okafor
+INC0200048,2025-09-30,17,Tuesday,WIE-343,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,2.47,Same day (1-24h),Student6661399,D. Lindqvist
+INC0200086,2025-10-01,12,Wednesday,WIE-306,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,0.03,Under 1 hour,Faculty7784259,J. Whitfield
+INC0200174,2025-10-01,20,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,95.85,Within a week,Student2056603,A. Okafor
+INC0200049,2025-10-02,11,Thursday,WIE-343,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,Yes,Resolved,1082.63,Over a week,Student6870456,D. Lindqvist
+INC0200128,2025-10-02,12,Thursday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,610.65,Over a week,Student7291038,A. Okafor
+INC0200044,2025-10-03,17,Friday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,17.75,Same day (1-24h),Student4029057,M. Reyes
+INC0200744,2025-10-04,16,Saturday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,3.28,Same day (1-24h),Staff4871308,M. Reyes
+INC0200469,2025-10-06,17,Monday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,54.23,Within a week,Staff784456,A. Okafor
+INC0200438,2025-10-07,9,Tuesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,109.22,Within a week,Faculty7694426,K. Duval
+INC0200155,2025-10-07,12,Tuesday,WIE-246,Yes,NVX early rollout (2021),Setup & Configuration,Event / class AV setup,No,No,Resolved,7.1,Same day (1-24h),Staff5440141,J. Whitfield
+INC0200081,2025-10-07,17,Tuesday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,12.87,Same day (1-24h),Faculty8366574,A. Okafor
+INC0200326,2025-10-09,12,Thursday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,76.75,Within a week,Faculty701531,S. Patel
+INC0200377,2025-10-09,16,Thursday,WIE-258,Yes,NVX early rollout (2021),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Student5554064,J. Whitfield
+INC0200384,2025-10-10,10,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Resolved,1.97,Same day (1-24h),Faculty5287079,A. Okafor
+INC0200502,2025-10-10,15,Friday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,4.18,Same day (1-24h),Student6402352,T. Nakamura
+INC0200545,2025-10-10,20,Friday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,1.22,Same day (1-24h),Faculty8479489,D. Lindqvist
+INC0200272,2025-10-13,14,Monday,WIE-508,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,30.32,Within a week,Faculty6857660,D. Lindqvist
+INC0200336,2025-10-13,15,Monday,WIE-251,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,3.23,Same day (1-24h),Student5219569,A. Okafor
+INC0200385,2025-10-15,10,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,Yes,Resolved,6.2,Same day (1-24h),Faculty7447115,D. Lindqvist
+INC0200057,2025-10-15,11,Wednesday,WIE-205,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,15.08,Same day (1-24h),Faculty8016168,A. Okafor
+INC0200477,2025-10-15,12,Wednesday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,1543.5,Over a week,Staff6520260,A. Okafor
+INC0200378,2025-10-16,11,Thursday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Faculty8533599,A. Okafor
+INC0200386,2025-10-16,19,Thursday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,43.93,Within a week,Student5527458,M. Reyes
+INC0200045,2025-10-17,8,Friday,WIE-355,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,1.88,Same day (1-24h),Faculty9022341,J. Whitfield
+INC0200034,2025-10-17,16,Friday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,459.33,Over a week,Faculty4151624,L. Ferreira
+INC0200070,2025-10-20,9,Monday,WIE-508,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,24.2,Within a week,Staff2102452,A. Okafor
+INC0200012,2025-10-20,12,Monday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,37.4,Within a week,Student1093523,A. Okafor
+INC0200341,2025-10-21,10,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,55.92,Within a week,Faculty1262277,R. Calloway
+INC0200355,2025-10-21,10,Tuesday,WIE-355,Yes,Legacy matrix (2017),Webconferencing,Camera / PTZ,No,No,Resolved,5.55,Same day (1-24h),Faculty5897095,D. Lindqvist
+INC0200524,2025-10-22,15,Wednesday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,17.32,Same day (1-24h),Faculty8620331,A. Okafor
+INC0200511,2025-10-23,11,Thursday,WIE-343,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,58.82,Within a week,Faculty2132182,E. Marsh
+INC0200226,2025-10-23,14,Thursday,WIE-142,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Open,,Open,Faculty1950405,A. Okafor
+INC0200742,2025-10-23,16,Thursday,WIE-105,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,10.52,Same day (1-24h),Staff1797653,T. Nakamura
+INC0200537,2025-10-23,18,Thursday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Open,,Open,Faculty2856325,A. Okafor
+INC0200686,2025-10-24,10,Friday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,150.2,Within a week,Staff3018500,M. Reyes
+INC0200383,2025-10-26,15,Sunday,WIE-148,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,443.9,Over a week,Student8033215,R. Calloway
+INC0200445,2025-10-27,13,Monday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,24.9,Within a week,Faculty5274356,J. Whitfield
+INC0200342,2025-10-28,11,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,2.88,Same day (1-24h),Student7232481,D. Lindqvist
+INC0200709,2025-10-28,13,Tuesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,146.15,Within a week,Student2998126,S. Patel
+INC0200652,2025-10-28,15,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,44.73,Within a week,Student644084,A. Okafor
+INC0200219,2025-10-28,16,Tuesday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,115.37,Within a week,Faculty459179,K. Duval
+INC0200687,2025-10-29,12,Wednesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,3308.02,Over a week,Staff5016551,S. Patel
+INC0200553,2025-10-30,9,Thursday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.45,Under 1 hour,Faculty9419023,M. Reyes
+INC0200376,2025-10-30,9,Thursday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,1.05,Same day (1-24h),Faculty5094411,A. Okafor
+INC0200710,2025-10-30,12,Thursday,WIE-544,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,341.38,Over a week,Faculty373539,R. Calloway
+INC0200176,2025-10-30,13,Thursday,WIE-521,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,6.13,Same day (1-24h),Student821416,D. Lindqvist
+INC0200664,2025-10-30,17,Thursday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,98.68,Within a week,Staff525635,D. Lindqvist
+INC0200580,2025-10-31,14,Friday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,702.1,Over a week,Student3693673,D. Lindqvist
+INC0200538,2025-10-31,20,Friday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,0.63,Under 1 hour,Staff6719342,A. Okafor
+INC0200554,2025-11-04,13,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Staff196037,M. Reyes
+INC0200726,2025-11-04,16,Tuesday,WIE-306,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,12.93,Same day (1-24h),Faculty9769010,M. Reyes
+INC0200558,2025-11-04,19,Tuesday,WIE-258,Yes,NVX early rollout (2021),Setup & Configuration,Event / class AV setup,No,No,Resolved,162.67,Within a week,Faculty3974645,T. Nakamura
+INC0200401,2025-11-05,16,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,0.45,Under 1 hour,Faculty8525344,S. Patel
+INC0200555,2025-11-05,18,Wednesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,2.1,Same day (1-24h),Faculty8085341,J. Whitfield
+INC0200468,2025-11-05,20,Wednesday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,2.88,Same day (1-24h),Staff1763489,A. Okafor
+INC0200581,2025-11-06,10,Thursday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,Yes,Resolved,225.37,Over a week,Faculty2383297,A. Okafor
+INC0200177,2025-11-07,12,Friday,WIE-521,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,Yes,Resolved,19.58,Same day (1-24h),Faculty6970467,M. Reyes
+INC0200446,2025-11-07,18,Friday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,0.03,Under 1 hour,Faculty3249139,D. Lindqvist
+INC0200343,2025-11-08,8,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,11.22,Same day (1-24h),Staff9194374,A. Okafor
+INC0200414,2025-11-13,10,Thursday,WIE-404,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,2365.68,Over a week,Staff1081491,A. Okafor
+INC0200424,2025-11-13,20,Thursday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,22.2,Same day (1-24h),Student4716478,S. Patel
+INC0200095,2025-11-15,17,Saturday,WIE-105,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,0.15,Under 1 hour,Faculty7081383,M. Reyes
+INC0200030,2025-11-17,14,Monday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,0.25,Under 1 hour,Staff2571056,D. Lindqvist
+INC0200402,2025-11-18,8,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,0.18,Under 1 hour,Faculty1995275,D. Lindqvist
+INC0200082,2025-11-18,10,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,0.57,Under 1 hour,Faculty1648062,E. Marsh
+INC0200706,2025-11-18,13,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,4.23,Same day (1-24h),Student2070229,S. Patel
+INC0200175,2025-11-18,16,Tuesday,WIE-251,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,402.87,Over a week,Student7134010,M. Reyes
+INC0200585,2025-11-18,21,Tuesday,WIE-251,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,Yes,Resolved,65.5,Within a week,Student5231379,J. Whitfield
+INC0200425,2025-11-19,11,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,29.25,Within a week,Faculty3847462,A. Okafor
+INC0200090,2025-11-20,9,Thursday,WIE-105,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,159.43,Within a week,Faculty8882409,M. Reyes
+INC0200635,2025-11-20,11,Thursday,WIE-312,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,28.63,Within a week,Faculty7201497,M. Reyes
+INC0200084,2025-11-20,15,Thursday,WIE-246,Yes,NVX early rollout (2021),Webconferencing,Zoom/Teams AV routing,No,No,Open,,Open,Student3811396,D. Lindqvist
+INC0200085,2025-11-25,16,Tuesday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,8.27,Same day (1-24h),Faculty2247643,A. Okafor
+INC0200013,2025-11-26,8,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,2.97,Same day (1-24h),Staff3972002,M. Reyes
+INC0200666,2025-11-26,12,Wednesday,WIE-343,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,32.67,Within a week,Faculty4595671,D. Lindqvist
+INC0200737,2025-11-26,12,Wednesday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,0.03,Under 1 hour,Faculty154321,M. Reyes
+INC0200263,2025-11-28,7,Friday,WIE-148,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,12.38,Same day (1-24h),Student5842636,S. Patel
+INC0200032,2025-11-28,16,Friday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,992.45,Over a week,Faculty6724281,S. Patel
+INC0200014,2025-12-04,18,Thursday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,485.5,Over a week,Faculty7554675,S. Patel
+INC0200150,2025-12-05,16,Friday,WIE-441,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,414.08,Over a week,Student2825557,J. Whitfield
+INC0200349,2025-12-10,12,Wednesday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,62.52,Within a week,Student4678614,D. Lindqvist
+INC0200436,2025-12-11,14,Thursday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,1891.17,Over a week,Faculty4768636,M. Reyes
+INC0200026,2025-12-13,7,Saturday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,3.7,Same day (1-24h),Faculty2880431,A. Okafor
+INC0200423,2025-12-13,11,Saturday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,329.58,Over a week,Student6664104,A. Okafor
+INC0200229,2025-12-18,12,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,0.35,Under 1 hour,Faculty391093,M. Reyes
+INC0200230,2025-12-19,14,Friday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,494.88,Over a week,Staff7574448,T. Nakamura
+INC0200571,2025-12-19,17,Friday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,12.33,Same day (1-24h),Student2530349,M. Reyes
+INC0200298,2025-12-20,14,Saturday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,19.75,Same day (1-24h),Faculty3239093,M. Reyes
+INC0200572,2025-12-22,10,Monday,WIE-404,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,145.35,Within a week,Student4721150,A. Okafor
+INC0200027,2025-12-22,14,Monday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,Yes,Resolved,1468.95,Over a week,Student500160,L. Ferreira
+INC0200670,2025-12-24,9,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,4.93,Same day (1-24h),Faculty1954430,L. Ferreira
+INC0200671,2025-12-28,13,Sunday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,3.07,Same day (1-24h),Faculty5450104,M. Reyes
+INC0200471,2025-12-30,9,Tuesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.22,Under 1 hour,Faculty5369203,A. Okafor
+INC0200408,2025-12-30,18,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,9.13,Same day (1-24h),Staff7897483,R. Calloway
+INC0200299,2025-12-31,12,Wednesday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,83.63,Within a week,Faculty3716037,K. Duval
+INC0200379,2026-01-01,8,Thursday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.83,Under 1 hour,Student3793180,J. Whitfield
+INC0200567,2026-01-02,12,Friday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,18.87,Same day (1-24h),Staff8702380,M. Reyes
+INC0200131,2026-01-02,20,Friday,WIE-306,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,27.53,Within a week,Student4498157,D. Lindqvist
+INC0200309,2026-01-02,22,Friday,WIE-355,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,328.02,Over a week,Student6084351,M. Reyes
+INC0200165,2026-01-05,13,Monday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,1100.08,Over a week,Staff2688003,E. Marsh
+INC0200006,2026-01-05,16,Monday,WIE-142,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Open,,Open,Faculty8930615,S. Patel
+INC0200380,2026-01-06,15,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,22.02,Same day (1-24h),Staff8830589,S. Patel
+INC0200675,2026-01-06,17,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,2199.88,Over a week,Student5242244,K. Duval
+INC0200607,2026-01-07,11,Wednesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.25,Under 1 hour,Student2946335,L. Ferreira
+INC0200361,2026-01-07,13,Wednesday,WIE-205,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,184.28,Over a week,Faculty7998334,D. Lindqvist
+INC0200300,2026-01-08,9,Thursday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,7.35,Same day (1-24h),Faculty1055672,J. Whitfield
+INC0200310,2026-01-08,15,Thursday,WIE-355,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,2.87,Same day (1-24h),Staff7316498,A. Okafor
+INC0200028,2026-01-08,16,Thursday,WIE-312,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,2012.17,Over a week,Faculty3685637,D. Lindqvist
+INC0200472,2026-01-09,7,Friday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Open,,Open,Faculty8111355,D. Lindqvist
+INC0200600,2026-01-09,10,Friday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,230.47,Over a week,Faculty1961400,L. Ferreira
+INC0200738,2026-01-09,12,Friday,WIE-205,Yes,NVX standard (2023),AV Technical Support,Input switching failure,Yes,No,Resolved,0.25,Under 1 hour,Staff4195010,M. Reyes
+INC0200254,2026-01-09,16,Friday,WIE-148,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,14.73,Same day (1-24h),Student4867491,E. Marsh
+INC0200615,2026-01-12,16,Monday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,83.47,Within a week,Student1862218,A. Okafor
+INC0200166,2026-01-12,22,Monday,WIE-355,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,332.03,Over a week,Faculty6005072,M. Reyes
+INC0200717,2026-01-13,8,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,0.93,Under 1 hour,Faculty3165523,A. Okafor
+INC0200564,2026-01-13,19,Tuesday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Audio / microphone,No,No,Resolved,139.73,Within a week,Faculty7869257,T. Nakamura
+INC0200411,2026-01-13,21,Tuesday,WIE-343,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,185.58,Over a week,Faculty5663406,D. Lindqvist
+INC0200676,2026-01-13,21,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,0.03,Under 1 hour,Staff2079005,J. Whitfield
+INC0200162,2026-01-16,10,Friday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,0.53,Under 1 hour,Staff2178034,M. Reyes
+INC0200249,2026-01-16,13,Friday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.25,Same day (1-24h),Staff3114109,M. Reyes
+INC0200231,2026-01-18,15,Sunday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,506.97,Over a week,Student9073659,J. Whitfield
+INC0200461,2026-01-19,12,Monday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,296.22,Over a week,Faculty8061243,M. Reyes
+INC0200701,2026-01-20,13,Tuesday,WIE-508,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,2225.07,Over a week,Student5305390,K. Duval
+INC0200250,2026-01-21,8,Wednesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,11.97,Same day (1-24h),Staff1298537,M. Reyes
+INC0200678,2026-01-21,9,Wednesday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,7.4,Same day (1-24h),Student2305412,A. Okafor
+INC0200330,2026-01-21,15,Wednesday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,134.53,Within a week,Faculty3578303,A. Okafor
+INC0200062,2026-01-21,15,Wednesday,WIE-455,Yes,NVX early rollout (2021),AV Technical Support,Podium PC / login,No,No,Resolved,7.23,Same day (1-24h),Faculty2002249,T. Nakamura
+INC0200618,2026-01-21,18,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,0.13,Under 1 hour,Student866405,S. Patel
+INC0200560,2026-01-22,10,Thursday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,20.55,Same day (1-24h),Faculty7084160,D. Lindqvist
+INC0200731,2026-01-23,14,Friday,WIE-110,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,23.97,Same day (1-24h),Faculty3142620,M. Reyes
+INC0200055,2026-01-25,10,Sunday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,2681.78,Over a week,Faculty574581,E. Marsh
+INC0200275,2026-01-26,9,Monday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,16.08,Same day (1-24h),Faculty5267401,A. Okafor
+INC0200672,2026-01-27,10,Tuesday,WIE-312,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,676.03,Over a week,Staff5736668,M. Reyes
+INC0200236,2026-01-27,11,Tuesday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,57.45,Within a week,Faculty9312635,E. Marsh
+INC0200735,2026-01-27,14,Tuesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Open,,Open,Faculty2257329,L. Ferreira
+INC0200072,2026-01-27,15,Tuesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,705.5,Over a week,Student5667633,A. Okafor
+INC0200103,2026-01-27,18,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Open,,Open,Staff3553228,R. Calloway
+INC0200654,2026-01-28,18,Wednesday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,47.63,Within a week,Faculty4218191,A. Okafor
+INC0200702,2026-01-28,21,Wednesday,WIE-508,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,Yes,Resolved,5.93,Same day (1-24h),Faculty7779079,A. Okafor
+INC0200350,2026-01-29,15,Thursday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,0.5,Under 1 hour,Staff9503431,A. Okafor
+INC0200293,2026-01-30,10,Friday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,18.4,Same day (1-24h),Student9868587,T. Nakamura
+INC0200073,2026-01-30,15,Friday,WIE-110,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,1057.75,Over a week,Faculty7532325,M. Reyes
+INC0200019,2026-01-31,11,Saturday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,7.42,Same day (1-24h),Faculty2747528,M. Reyes
+INC0200612,2026-01-31,12,Saturday,WIE-312,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,396.52,Over a week,Faculty9930409,A. Okafor
+INC0200005,2026-01-31,14,Saturday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,0.03,Under 1 hour,Student3852625,A. Okafor
+INC0200251,2026-01-31,19,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.03,Under 1 hour,Staff5306058,M. Reyes
+INC0200294,2026-02-01,9,Sunday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.37,Same day (1-24h),Faculty8887524,D. Lindqvist
+INC0200463,2026-02-02,17,Monday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,2.6,Same day (1-24h),Faculty4644560,D. Lindqvist
+INC0200395,2026-02-03,9,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,4.58,Same day (1-24h),Faculty5032571,J. Whitfield
+INC0200156,2026-02-03,14,Tuesday,WIE-352,Yes,NVX early rollout (2021),Lecture Capture,Capture scheduling / setup,No,No,Resolved,327.73,Over a week,Staff2294470,M. Reyes
+INC0200679,2026-02-03,19,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,0.92,Under 1 hour,Faculty6160486,D. Lindqvist
+INC0200351,2026-02-04,11,Wednesday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,Yes,Resolved,0.35,Under 1 hour,Student9335257,S. Patel
+INC0200104,2026-02-05,11,Thursday,WIE-404,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,14.15,Same day (1-24h),Staff3442404,T. Nakamura
+INC0200101,2026-02-05,12,Thursday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,2099.65,Over a week,Staff2134417,D. Lindqvist
+INC0200258,2026-02-06,9,Friday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.1,Under 1 hour,Faculty6832473,A. Okafor
+INC0200157,2026-02-08,10,Sunday,WIE-352,Yes,NVX early rollout (2021),Lecture Capture,Capture scheduling / setup,No,Yes,Resolved,269.42,Over a week,Staff6386122,D. Lindqvist
+INC0200586,2026-02-09,10,Monday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,201.45,Over a week,Staff3571080,A. Okafor
+INC0200588,2026-02-09,10,Monday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,0.45,Under 1 hour,Faculty8026493,M. Reyes
+INC0200613,2026-02-09,11,Monday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,109.18,Within a week,Faculty2596432,A. Okafor
+INC0200259,2026-02-09,14,Monday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.22,Under 1 hour,Faculty3049138,D. Lindqvist
+INC0200295,2026-02-10,14,Tuesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.42,Under 1 hour,Student2307323,D. Lindqvist
+INC0200154,2026-02-10,15,Tuesday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,137.12,Within a week,Faculty3153525,K. Duval
+INC0200257,2026-02-13,12,Friday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,868.98,Over a week,Faculty7998301,E. Marsh
+INC0200587,2026-02-14,14,Saturday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,Yes,Resolved,623.05,Over a week,Faculty8026493,M. Reyes
+INC0200141,2026-02-17,10,Tuesday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,702.1,Over a week,Staff8956333,M. Reyes
+INC0200552,2026-02-18,19,Wednesday,WIE-355,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,845.23,Over a week,Student2964423,K. Duval
+INC0200255,2026-02-19,17,Thursday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,4.1,Same day (1-24h),Staff2495489,L. Ferreira
+INC0200490,2026-02-20,9,Friday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,610.67,Over a week,Staff8206587,M. Reyes
+INC0200292,2026-02-22,10,Sunday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Input switching failure,Yes,No,Resolved,0.92,Under 1 hour,Staff3355529,S. Patel
+INC0200387,2026-02-23,17,Monday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,824.83,Over a week,Faculty9126125,E. Marsh
+INC0200508,2026-02-24,9,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,16.55,Same day (1-24h),Staff6572173,A. Okafor
+INC0200138,2026-02-27,17,Friday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,4.87,Same day (1-24h),Staff4479219,A. Okafor
+INC0200274,2026-02-27,18,Friday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,6.05,Same day (1-24h),Staff3947604,D. Lindqvist
+INC0200491,2026-02-27,19,Friday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,2.13,Same day (1-24h),Faculty6586371,D. Lindqvist
+INC0200509,2026-02-28,10,Saturday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.12,Under 1 hour,Faculty1181371,A. Okafor
+INC0200142,2026-03-01,16,Sunday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,14.73,Same day (1-24h),Faculty7261029,M. Reyes
+INC0200527,2026-03-02,10,Monday,WIE-521,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,4.83,Same day (1-24h),Staff1745568,M. Reyes
+INC0200059,2026-03-02,16,Monday,WIE-148,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,9.33,Same day (1-24h),Student4935106,S. Patel
+INC0200064,2026-03-05,14,Thursday,WIE-352,Yes,NVX early rollout (2021),AV Technical Support,Input switching failure,Yes,No,Resolved,0.53,Under 1 hour,Faculty9883552,M. Reyes
+INC0200139,2026-03-06,14,Friday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,150.3,Within a week,Student1631625,M. Reyes
+INC0200329,2026-03-06,19,Friday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,187.38,Over a week,Staff9318290,M. Reyes
+INC0200497,2026-03-07,11,Saturday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,322.83,Over a week,Faculty9979488,A. Okafor
+INC0200530,2026-03-08,18,Sunday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Input switching failure,Yes,No,Resolved,4.22,Same day (1-24h),Student3923455,D. Lindqvist
+INC0200218,2026-03-09,11,Monday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,1.37,Same day (1-24h),Student8687435,A. Okafor
+INC0200235,2026-03-09,11,Monday,WIE-312,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,54.0,Within a week,Student9075425,L. Ferreira
+INC0200394,2026-03-10,9,Tuesday,WIE-148,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,201.23,Over a week,Faculty6017034,J. Whitfield
+INC0200734,2026-03-10,15,Tuesday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Control system / touch panel,No,No,Resolved,1.65,Same day (1-24h),Staff4881295,M. Reyes
+INC0200398,2026-03-10,15,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,5.45,Same day (1-24h),Staff1866032,A. Okafor
+INC0200167,2026-03-11,9,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,31.22,Within a week,Student232364,A. Okafor
+INC0200529,2026-03-11,9,Wednesday,WIE-251,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,1689.08,Over a week,Faculty2116561,A. Okafor
+INC0200699,2026-03-11,10,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,3.1,Same day (1-24h),Staff8694395,A. Okafor
+INC0200065,2026-03-11,21,Wednesday,WIE-352,Yes,NVX early rollout (2021),AV Technical Support,Input switching failure,Yes,Yes,Resolved,0.9,Under 1 hour,Faculty2517192,M. Reyes
+INC0200122,2026-03-12,11,Thursday,WIE-105,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,707.33,Over a week,Faculty6221387,S. Patel
+INC0200694,2026-03-12,16,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,153.77,Within a week,Faculty7065660,A. Okafor
+INC0200270,2026-03-12,19,Thursday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.13,Under 1 hour,Faculty9519376,M. Reyes
+INC0200531,2026-03-13,9,Friday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Input switching failure,Yes,Yes,Resolved,1.35,Same day (1-24h),Student6125096,K. Duval
+INC0200168,2026-03-13,11,Friday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,0.5,Under 1 hour,Faculty6370238,L. Ferreira
+INC0200464,2026-03-15,14,Sunday,WIE-110,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Open,,Open,Student405406,S. Patel
+INC0200358,2026-03-16,9,Monday,WIE-508,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,6.87,Same day (1-24h),Staff7529548,S. Patel
+INC0200240,2026-03-16,12,Monday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,3.38,Same day (1-24h),Faculty2055614,D. Lindqvist
+INC0200212,2026-03-17,18,Tuesday,WIE-352,Yes,NVX early rollout (2021),AV Technical Support,Podium PC / login,No,No,Resolved,1.82,Same day (1-24h),Faculty4943535,A. Okafor
+INC0200565,2026-03-17,18,Tuesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,2450.2,Over a week,Staff8355354,R. Calloway
+INC0200290,2026-03-18,16,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,22.45,Same day (1-24h),Faculty2493076,A. Okafor
+INC0200271,2026-03-19,8,Thursday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.3,Under 1 hour,Staff4198668,D. Lindqvist
+INC0200456,2026-03-19,18,Thursday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,25.32,Within a week,Student4338460,L. Ferreira
+INC0200695,2026-03-20,9,Friday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,1.8,Same day (1-24h),Staff6757059,M. Reyes
+INC0200700,2026-03-20,11,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,802.05,Over a week,Faculty9337505,M. Reyes
+INC0200321,2026-03-20,12,Friday,WIE-110,Yes,NVX standard (2023),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,123.48,Within a week,Staff4125365,D. Lindqvist
+INC0200071,2026-03-20,20,Friday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,802.62,Over a week,Staff4664289,M. Reyes
+INC0200241,2026-03-21,11,Saturday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,Yes,Resolved,7.0,Same day (1-24h),Faculty2636386,K. Duval
+INC0200054,2026-03-21,12,Saturday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,77.67,Within a week,Faculty6326563,L. Ferreira
+INC0200743,2026-03-21,12,Saturday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,2.9,Same day (1-24h),Student7607574,M. Reyes
+INC0200169,2026-03-22,7,Sunday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,3.43,Same day (1-24h),Student7348117,E. Marsh
+INC0200566,2026-03-22,20,Sunday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,Yes,Resolved,0.28,Under 1 hour,Student6612578,D. Lindqvist
+INC0200024,2026-03-24,11,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,61.2,Within a week,Staff8921016,L. Ferreira
+INC0200591,2026-03-24,15,Tuesday,WIE-521,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.77,Under 1 hour,Staff6450048,J. Whitfield
+INC0200170,2026-03-24,16,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,18.97,Same day (1-24h),Staff4768513,R. Calloway
+INC0200052,2026-03-24,18,Tuesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.22,Same day (1-24h),Staff4012266,L. Ferreira
+INC0200696,2026-03-24,20,Tuesday,WIE-355,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Resolved,405.65,Over a week,Faculty5546529,D. Lindqvist
+INC0200291,2026-03-25,14,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,4.33,Same day (1-24h),Faculty4178003,M. Reyes
+INC0200457,2026-03-25,17,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,30.03,Within a week,Staff7524598,S. Patel
+INC0200324,2026-03-26,9,Thursday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Audio / microphone,No,No,Resolved,0.47,Under 1 hour,Faculty2559489,D. Lindqvist
+INC0200352,2026-03-28,8,Saturday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,0.1,Under 1 hour,Student2960097,A. Okafor
+INC0200406,2026-03-28,17,Saturday,WIE-455,Yes,NVX early rollout (2021),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,16.95,Same day (1-24h),Student8164640,S. Patel
+INC0200739,2026-03-31,18,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Resolved,0.7,Under 1 hour,Faculty3373145,M. Reyes
+INC0200171,2026-04-01,11,Wednesday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,45.2,Within a week,Staff297068,T. Nakamura
+INC0200741,2026-04-01,15,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,4.85,Same day (1-24h),Faculty2082589,R. Calloway
+INC0200539,2026-04-01,16,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,42.67,Within a week,Faculty2010003,S. Patel
+INC0200665,2026-04-02,10,Thursday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,44.97,Within a week,Student1889051,M. Reyes
+INC0200094,2026-04-02,10,Thursday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,34.6,Within a week,Faculty6434612,R. Calloway
+INC0200740,2026-04-02,10,Thursday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,Yes,Resolved,0.25,Under 1 hour,Faculty1921380,R. Calloway
+INC0200312,2026-04-02,14,Thursday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Open,,Open,Faculty3388035,J. Whitfield
+INC0200592,2026-04-03,9,Friday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.03,Under 1 hour,Student1528251,D. Lindqvist
+INC0200714,2026-04-03,10,Friday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,2.25,Same day (1-24h),Faculty4349139,M. Reyes
+INC0200598,2026-04-04,11,Saturday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,5.7,Same day (1-24h),Faculty1614131,S. Patel
+INC0200053,2026-04-06,8,Monday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.03,Under 1 hour,Student706119,R. Calloway
+INC0200673,2026-04-06,15,Monday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,61.17,Within a week,Student7838045,K. Duval
+INC0200163,2026-04-06,15,Monday,WIE-246,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,17.93,Same day (1-24h),Student8547064,A. Okafor
+INC0200132,2026-04-06,16,Monday,WIE-404,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,13.28,Same day (1-24h),Faculty7946601,A. Okafor
+INC0200722,2026-04-07,9,Tuesday,WIE-318,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,803.97,Over a week,Faculty5783444,M. Reyes
+INC0200639,2026-04-07,11,Tuesday,WIE-306,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,2.6,Same day (1-24h),Staff8727082,D. Lindqvist
+INC0200367,2026-04-07,14,Tuesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,168.85,Over a week,Faculty9635371,A. Okafor
+INC0200494,2026-04-07,17,Tuesday,WIE-343,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Open,,Open,Faculty6716245,J. Whitfield
+INC0200287,2026-04-07,17,Tuesday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Open,,Open,Faculty6485187,M. Reyes
+INC0200322,2026-04-07,20,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,2.07,Same day (1-24h),Faculty2430588,M. Reyes
+INC0200115,2026-04-08,10,Wednesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,2.15,Same day (1-24h),Faculty4550464,M. Reyes
+INC0200680,2026-04-08,10,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,0.1,Under 1 hour,Student787134,M. Reyes
+INC0200360,2026-04-08,10,Wednesday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,0.57,Under 1 hour,Staff114124,A. Okafor
+INC0200008,2026-04-08,11,Wednesday,WIE-404,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,175.17,Over a week,Faculty4989419,D. Lindqvist
+INC0200183,2026-04-08,12,Wednesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Resolved,1.07,Same day (1-24h),Staff5470032,M. Reyes
+INC0200344,2026-04-08,12,Wednesday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,411.4,Over a week,Faculty7521550,S. Patel
+INC0200407,2026-04-08,13,Wednesday,WIE-455,Yes,NVX early rollout (2021),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,1.23,Same day (1-24h),Staff617442,M. Reyes
+INC0200288,2026-04-09,14,Thursday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,51.2,Within a week,Faculty8815543,A. Okafor
+INC0200610,2026-04-10,16,Friday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,22.33,Same day (1-24h),Staff1854497,M. Reyes
+INC0200323,2026-04-10,19,Friday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Audio / microphone,No,No,Resolved,13.78,Same day (1-24h),Student1577170,D. Lindqvist
+INC0200188,2026-04-11,12,Saturday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,24.65,Within a week,Faculty4702025,T. Nakamura
+INC0200715,2026-04-11,14,Saturday,WIE-412,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,28.37,Within a week,Student701551,D. Lindqvist
+INC0200353,2026-04-12,9,Sunday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.57,Same day (1-24h),Staff6377637,T. Nakamura
+INC0200289,2026-04-12,9,Sunday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,0.17,Under 1 hour,Staff5353396,A. Okafor
+INC0200184,2026-04-12,12,Sunday,Unattributed,No,Unattributed,AV Technical Support,Control system / touch panel,No,No,Resolved,3.8,Same day (1-24h),Faculty9113381,D. Lindqvist
+INC0200540,2026-04-12,18,Sunday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Open,,Open,Staff1649398,M. Reyes
+INC0200313,2026-04-13,9,Monday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,566.7,Over a week,Student412289,M. Reyes
+INC0200611,2026-04-13,9,Monday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,Yes,Resolved,11.92,Same day (1-24h),Faculty459093,D. Lindqvist
+INC0200267,2026-04-13,17,Monday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,21.63,Same day (1-24h),Staff1149340,S. Patel
+INC0200100,2026-04-14,8,Tuesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,3.8,Same day (1-24h),Student8712613,D. Lindqvist
+INC0200595,2026-04-14,15,Tuesday,WIE-537,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.0,Under 1 hour,Faculty1631326,A. Okafor
+INC0200268,2026-04-15,8,Wednesday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,8.05,Same day (1-24h),Student9888425,S. Patel
+INC0200716,2026-04-15,10,Wednesday,WIE-355,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,6.95,Same day (1-24h),Faculty3154094,L. Ferreira
+INC0200302,2026-04-15,13,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,246.02,Over a week,Staff7154644,M. Reyes
+INC0200080,2026-04-15,14,Wednesday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,157.83,Within a week,Faculty1579072,D. Lindqvist
+INC0200111,2026-04-15,16,Wednesday,WIE-537,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.82,Under 1 hour,Faculty6329436,S. Patel
+INC0200374,2026-04-15,19,Wednesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,207.55,Over a week,Staff7114208,A. Okafor
+INC0200704,2026-04-16,14,Thursday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.05,Under 1 hour,Faculty2500158,M. Reyes
+INC0200705,2026-04-17,8,Friday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.3,Under 1 hour,Staff8298269,D. Lindqvist
+INC0200599,2026-04-17,9,Friday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,4.75,Same day (1-24h),Student7256152,T. Nakamura
+INC0200356,2026-04-17,11,Friday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,6.87,Same day (1-24h),Faculty238442,M. Reyes
+INC0200608,2026-04-17,12,Friday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.13,Under 1 hour,Staff9820020,D. Lindqvist
+INC0200357,2026-04-19,9,Sunday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,0.05,Under 1 hour,Faculty488157,K. Duval
+INC0200116,2026-04-20,10,Monday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,0.35,Under 1 hour,Student1741183,J. Whitfield
+INC0200718,2026-04-20,12,Monday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,1.88,Same day (1-24h),Faculty1867640,S. Patel
+INC0200018,2026-04-20,13,Monday,Unattributed,No,Unattributed,Consultation,AV consultation / training,No,No,Resolved,117.5,Within a week,Faculty9164081,T. Nakamura
+INC0200252,2026-04-20,20,Monday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,32.98,Within a week,Student7963608,A. Okafor
+INC0200421,2026-04-21,9,Tuesday,WIE-508,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,24.38,Within a week,Faculty3957236,M. Reyes
+INC0200440,2026-04-21,11,Tuesday,WIE-312,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,38.4,Within a week,Staff5243581,A. Okafor
+INC0200340,2026-04-21,19,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.85,Under 1 hour,Faculty3104298,A. Okafor
+INC0200375,2026-04-22,9,Wednesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,1.2,Same day (1-24h),Faculty756339,D. Lindqvist
+INC0200616,2026-04-22,12,Wednesday,WIE-355,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,5.4,Same day (1-24h),Faculty5386155,A. Okafor
+INC0200632,2026-04-22,13,Wednesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,3.42,Same day (1-24h),Faculty5847379,T. Nakamura
+INC0200129,2026-04-22,16,Wednesday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,19.93,Same day (1-24h),Faculty9793043,D. Lindqvist
+INC0200396,2026-04-23,8,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,49.43,Within a week,Faculty9253181,M. Reyes
+INC0200479,2026-04-23,13,Thursday,WIE-508,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,640.82,Over a week,Faculty646053,K. Duval
+INC0200630,2026-04-23,15,Thursday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.13,Under 1 hour,Faculty7911438,A. Okafor
+INC0200232,2026-04-23,16,Thursday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,23.58,Same day (1-24h),Faculty1865582,A. Okafor
+INC0200354,2026-04-24,9,Friday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.3,Same day (1-24h),Faculty7902376,J. Whitfield
+INC0200416,2026-04-24,12,Friday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,0.03,Under 1 hour,Student791447,L. Ferreira
+INC0200123,2026-04-24,16,Friday,WIE-258,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,173.33,Over a week,Staff9483422,J. Whitfield
+INC0200459,2026-04-25,9,Saturday,WIE-142,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,38.38,Within a week,Staff6568458,M. Reyes
+INC0200582,2026-04-25,9,Saturday,WIE-441,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,5.25,Same day (1-24h),Faculty1836048,A. Okafor
+INC0200303,2026-04-25,9,Saturday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Open,,Open,Staff103376,L. Ferreira
+INC0200719,2026-04-25,11,Saturday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.17,Under 1 hour,Staff3351588,A. Okafor
+INC0200397,2026-04-25,17,Saturday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Open,,Open,Student7340290,A. Okafor
+INC0200417,2026-04-25,18,Saturday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,29.95,Within a week,Staff1579307,R. Calloway
+INC0200720,2026-04-26,10,Sunday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,10.18,Same day (1-24h),Faculty5138139,M. Reyes
+INC0200093,2026-04-26,15,Sunday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,7.72,Same day (1-24h),Student5270157,D. Lindqvist
+INC0200473,2026-04-27,15,Monday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,148.7,Within a week,Faculty6169092,A. Okafor
+INC0200677,2026-04-28,8,Tuesday,WIE-142,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,184.05,Over a week,Faculty4055589,L. Ferreira
+INC0200721,2026-04-28,9,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,14.45,Same day (1-24h),Faculty7813289,S. Patel
+INC0200366,2026-04-28,9,Tuesday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,1.37,Same day (1-24h),Student2079322,A. Okafor
+INC0200238,2026-04-29,15,Wednesday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,0.37,Under 1 hour,Staff8470319,A. Okafor
+INC0200609,2026-04-29,19,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Open,,Open,Staff5967540,M. Reyes
+INC0200633,2026-04-30,10,Thursday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,6.53,Same day (1-24h),Staff4522393,A. Okafor
+INC0200140,2026-04-30,15,Thursday,WIE-246,Yes,NVX early rollout (2021),AV Technical Support,Input switching failure,Yes,No,Resolved,63.08,Within a week,Student4541483,D. Lindqvist
+INC0200412,2026-04-30,16,Thursday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,16.27,Same day (1-24h),Faculty1652590,R. Calloway
+INC0200433,2026-04-30,17,Thursday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,66.73,Within a week,Staff9695226,M. Reyes
+INC0200474,2026-05-01,7,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.55,Under 1 hour,Student3938579,A. Okafor
+INC0200452,2026-05-01,11,Friday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,213.9,Over a week,Student4121349,J. Whitfield
+INC0200037,2026-05-01,17,Friday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,1.2,Same day (1-24h),Faculty8917519,D. Lindqvist
+INC0200658,2026-05-01,20,Friday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,144.42,Within a week,Faculty6280336,K. Duval
+INC0200117,2026-05-03,7,Sunday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,16.6,Same day (1-24h),Staff3367410,M. Reyes
+INC0200253,2026-05-03,13,Sunday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,173.0,Over a week,Faculty3318121,J. Whitfield
+INC0200233,2026-05-04,15,Monday,WIE-412,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,No,Resolved,28.18,Within a week,Student2305484,D. Lindqvist
+INC0200447,2026-05-04,15,Monday,WIE-205,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,118.57,Within a week,Student7838609,A. Okafor
+INC0200432,2026-05-04,15,Monday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,5.08,Same day (1-24h),Staff768093,D. Lindqvist
+INC0200707,2026-05-04,16,Monday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,512.52,Over a week,Faculty274153,J. Whitfield
+INC0200450,2026-05-04,18,Monday,WIE-110,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,25.67,Within a week,Student1769513,S. Patel
+INC0200476,2026-05-04,18,Monday,WIE-251,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,326.52,Over a week,Staff949013,T. Nakamura
+INC0200692,2026-05-05,10,Tuesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,5.55,Same day (1-24h),Staff6619094,A. Okafor
+INC0200418,2026-05-05,12,Tuesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,0.05,Under 1 hour,Faculty2103201,T. Nakamura
+INC0200601,2026-05-05,14,Tuesday,WIE-537,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,30.9,Within a week,Student6285149,L. Ferreira
+INC0200348,2026-05-05,18,Tuesday,WIE-251,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,32.42,Within a week,Staff9568494,S. Patel
+INC0200605,2026-05-05,20,Tuesday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,50.6,Within a week,Faculty3768011,L. Ferreira
+INC0200689,2026-05-06,14,Wednesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,19.82,Same day (1-24h),Staff5395043,M. Reyes
+INC0200451,2026-05-06,14,Wednesday,WIE-110,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,Yes,Resolved,0.78,Under 1 hour,Student7333256,J. Whitfield
+INC0200105,2026-05-06,21,Wednesday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,1.27,Same day (1-24h),Faculty6393035,J. Whitfield
+INC0200697,2026-05-07,12,Thursday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,7.5,Same day (1-24h),Staff5635257,A. Okafor
+INC0200314,2026-05-07,13,Thursday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,95.75,Within a week,Faculty2672402,A. Okafor
+INC0200210,2026-05-07,20,Thursday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,1039.55,Over a week,Faculty4611594,A. Okafor
+INC0200662,2026-05-08,10,Friday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,4.27,Same day (1-24h),Faculty3877120,M. Reyes
+INC0200227,2026-05-08,13,Friday,WIE-148,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,8.1,Same day (1-24h),Staff4172569,D. Lindqvist
+INC0200442,2026-05-08,20,Friday,WIE-312,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.92,Under 1 hour,Faculty2313056,J. Whitfield
+INC0200443,2026-05-09,20,Saturday,WIE-312,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,Yes,Open,,Open,Faculty7239527,A. Okafor
+INC0200693,2026-05-10,8,Sunday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,185.0,Over a week,Faculty6290601,T. Nakamura
+INC0200106,2026-05-10,11,Sunday,WIE-246,Yes,NVX early rollout (2021),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,3.87,Same day (1-24h),Faculty7748406,D. Lindqvist
+INC0200239,2026-05-10,19,Sunday,WIE-343,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,1.68,Same day (1-24h),Staff4217026,R. Calloway
+INC0200083,2026-05-11,11,Monday,WIE-148,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,516.83,Over a week,Faculty5481454,S. Patel
+INC0200234,2026-05-11,14,Monday,WIE-412,Yes,NVX standard (2023),Lecture Capture,Capture scheduling / setup,No,Yes,Resolved,0.5,Under 1 hour,Student6447107,S. Patel
+INC0200681,2026-05-12,10,Tuesday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,0.4,Under 1 hour,Faculty1838518,M. Reyes
+INC0200345,2026-05-12,10,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,4.78,Same day (1-24h),Staff8462019,E. Marsh
+INC0200422,2026-05-12,16,Tuesday,WIE-441,Yes,NVX standard (2023),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,107.85,Within a week,Student2727341,T. Nakamura
+INC0200528,2026-05-12,16,Tuesday,WIE-246,Yes,NVX early rollout (2021),Setup & Configuration,Event / class AV setup,No,No,Open,,Open,Faculty7999367,D. Lindqvist
+INC0200180,2026-05-12,20,Tuesday,WIE-355,Yes,Legacy matrix (2017),Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,15.35,Same day (1-24h),Faculty4684126,J. Whitfield
+INC0200038,2026-05-13,11,Wednesday,WIE-105,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,1493.12,Over a week,Faculty7713371,A. Okafor
+INC0200318,2026-05-13,12,Wednesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,110.53,Within a week,Faculty529109,M. Reyes
+INC0200730,2026-05-13,12,Wednesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Open,,Open,Faculty1398618,A. Okafor
+INC0200659,2026-05-13,13,Wednesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,5.72,Same day (1-24h),Faculty5721292,M. Reyes
+INC0200020,2026-05-13,18,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.75,Same day (1-24h),Student3541037,A. Okafor
+INC0200195,2026-05-14,9,Thursday,WIE-537,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,3.17,Same day (1-24h),Faculty1870294,S. Patel
+INC0200660,2026-05-14,11,Thursday,Unattributed,No,Unattributed,AV Technical Support,Input switching failure,Yes,No,Resolved,69.07,Within a week,Student1355183,D. Lindqvist
+INC0200682,2026-05-15,9,Friday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,0.77,Under 1 hour,Staff209656,M. Reyes
+INC0200624,2026-05-15,20,Friday,WIE-352,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Projector lamp / image quality,No,No,Resolved,152.87,Within a week,Faculty8008284,S. Patel
+INC0200606,2026-05-16,11,Saturday,WIE-105,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,7.78,Same day (1-24h),Staff530026,R. Calloway
+INC0200118,2026-05-16,15,Saturday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,2.97,Same day (1-24h),Faculty2980143,T. Nakamura
+INC0200430,2026-05-17,8,Sunday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,0.03,Under 1 hour,Staff2014112,M. Reyes
+INC0200107,2026-05-17,13,Sunday,WIE-246,Yes,NVX early rollout (2021),Webconferencing,Zoom/Teams AV routing,No,Yes,Resolved,7.33,Same day (1-24h),Student4781561,D. Lindqvist
+INC0200556,2026-05-17,14,Sunday,Unattributed,No,Unattributed,AV Technical Support,Audio / microphone,No,No,Resolved,4.48,Same day (1-24h),Staff3351011,A. Okafor
+INC0200557,2026-05-18,12,Monday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,Yes,Resolved,2.65,Same day (1-24h),Student6999211,T. Nakamura
+INC0200458,2026-05-18,14,Monday,WIE-537,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,5.42,Same day (1-24h),Student5471185,R. Calloway
+INC0200237,2026-05-18,14,Monday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,89.73,Within a week,Faculty3375547,R. Calloway
+INC0200462,2026-05-18,18,Monday,WIE-110,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,1.82,Same day (1-24h),Staff6281374,A. Okafor
+INC0200507,2026-05-19,12,Tuesday,WIE-148,Yes,NVX standard (2023),Webconferencing,Camera / PTZ,No,No,Resolved,36.4,Within a week,Faculty1597188,D. Lindqvist
+INC0200228,2026-05-19,12,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,17.27,Same day (1-24h),Faculty8223431,J. Whitfield
+INC0200181,2026-05-19,13,Tuesday,WIE-352,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,498.12,Over a week,Faculty2241359,A. Okafor
+INC0200021,2026-05-19,13,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.17,Under 1 hour,Student6855655,J. Whitfield
+INC0200698,2026-05-19,14,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,99.22,Within a week,Faculty5372527,D. Lindqvist
+INC0200317,2026-05-19,18,Tuesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,290.88,Over a week,Faculty2039459,L. Ferreira
+INC0200444,2026-05-20,16,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.05,Under 1 hour,Student6910585,L. Ferreira
+INC0200202,2026-05-20,17,Wednesday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,1069.88,Over a week,Staff7233073,L. Ferreira
+INC0200431,2026-05-20,18,Wednesday,WIE-205,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,3.18,Same day (1-24h),Staff4421242,E. Marsh
+INC0200196,2026-05-22,12,Friday,WIE-537,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,35.42,Within a week,Faculty9570415,D. Lindqvist
+INC0200203,2026-05-23,19,Saturday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,586.83,Over a week,Faculty9726672,A. Okafor
+INC0200182,2026-05-25,12,Monday,Unattributed,No,Unattributed,Lecture Capture,Recording failed / not captured,No,No,Resolved,26.12,Within a week,Faculty9679128,A. Okafor
+INC0200683,2026-05-25,16,Monday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,Yes,Resolved,2.48,Same day (1-24h),Student7381575,M. Reyes
+INC0200029,2026-05-26,9,Tuesday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,0.32,Under 1 hour,Staff7877369,T. Nakamura
+INC0200204,2026-05-26,14,Tuesday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,5.07,Same day (1-24h),Faculty8875659,M. Reyes
+INC0200022,2026-05-26,15,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,17.58,Same day (1-24h),Faculty7811313,T. Nakamura
+INC0200192,2026-05-26,16,Tuesday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,17.12,Same day (1-24h),Faculty8082611,D. Lindqvist
+INC0200327,2026-05-27,9,Wednesday,WIE-318,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,96.65,Within a week,Student7560447,L. Ferreira
+INC0200480,2026-05-27,11,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.92,Under 1 hour,Staff273671,S. Patel
+INC0200625,2026-05-28,15,Thursday,WIE-352,Yes,NVX early rollout (2021),Equipment Maintenance & Repair,Projector lamp / image quality,No,Yes,Resolved,1.32,Same day (1-24h),Faculty1331574,A. Okafor
+INC0200577,2026-05-28,19,Thursday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,No,Resolved,18.18,Same day (1-24h),Faculty5807503,A. Okafor
+INC0200320,2026-05-28,20,Thursday,WIE-355,Yes,Legacy matrix (2017),Consultation,AV consultation / training,No,No,Open,,Open,Staff7596582,J. Whitfield
+INC0200017,2026-06-02,7,Tuesday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,235.83,Over a week,Faculty4769193,L. Ferreira
+INC0200623,2026-06-02,18,Tuesday,WIE-412,Yes,NVX standard (2023),Consultation,AV consultation / training,No,No,Resolved,233.33,Over a week,Faculty2357577,R. Calloway
+INC0200614,2026-06-03,11,Wednesday,WIE-251,Yes,Legacy matrix (2017),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,132.15,Within a week,Faculty2933164,A. Okafor
+INC0200109,2026-06-03,16,Wednesday,WIE-306,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,18.08,Same day (1-24h),Staff5318114,S. Patel
+INC0200193,2026-06-04,18,Thursday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,63.7,Within a week,Staff5126142,A. Okafor
+INC0200578,2026-06-05,12,Friday,WIE-110,Yes,NVX standard (2023),AV Technical Support,Audio / microphone,No,Yes,Resolved,34.33,Within a week,Faculty2535650,A. Okafor
+INC0200711,2026-06-05,13,Friday,Unattributed,No,Unattributed,Webconferencing,Zoom/Teams AV routing,No,No,Resolved,6.8,Same day (1-24h),Student4468420,M. Reyes
+INC0200712,2026-06-06,14,Saturday,WIE-412,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,0.87,Under 1 hour,Faculty9284242,M. Reyes
+INC0200010,2026-06-07,10,Sunday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Capture scheduling / setup,No,No,Resolved,103.37,Within a week,Student6218246,R. Calloway
+INC0200550,2026-06-08,12,Monday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Open,,Open,Faculty1040148,R. Calloway
+INC0200460,2026-06-08,16,Monday,WIE-544,Yes,NVX standard (2023),Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,187.38,Over a week,Student7855170,T. Nakamura
+INC0200063,2026-06-09,15,Tuesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,3.4,Same day (1-24h),Faculty6170048,M. Reyes
+INC0200481,2026-06-09,18,Tuesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,3.82,Same day (1-24h),Faculty5477380,A. Okafor
+INC0200009,2026-06-10,19,Wednesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,2.5,Same day (1-24h),Staff8062054,A. Okafor
+INC0200279,2026-06-12,9,Friday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,69.13,Within a week,Staff1721038,A. Okafor
+INC0200316,2026-06-12,14,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,No,Resolved,0.57,Under 1 hour,Faculty9619524,S. Patel
+INC0200391,2026-06-12,16,Friday,WIE-537,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.3,Under 1 hour,Student3147110,A. Okafor
+INC0200551,2026-06-13,12,Saturday,WIE-105,Yes,NVX standard (2023),Setup & Configuration,Event / class AV setup,No,No,Resolved,542.02,Over a week,Staff219179,K. Duval
+INC0200110,2026-06-13,17,Saturday,WIE-306,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,47.22,Within a week,Staff9322412,T. Nakamura
+INC0200346,2026-06-16,7,Tuesday,WIE-142,Yes,Legacy matrix (2017),Setup & Configuration,Event / class AV setup,No,No,Resolved,6.27,Same day (1-24h),Student6351324,T. Nakamura
+INC0200151,2026-06-16,11,Tuesday,WIE-148,Yes,NVX standard (2023),Webconferencing,Zoom/Teams AV routing,No,No,Resolved,32.27,Within a week,Faculty9743326,D. Lindqvist
+INC0200194,2026-06-16,12,Tuesday,WIE-142,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,57.77,Within a week,Staff9365202,A. Okafor
+INC0200333,2026-06-17,11,Wednesday,WIE-404,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,6.23,Same day (1-24h),Student5252633,M. Reyes
+INC0200547,2026-06-17,12,Wednesday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Control system / touch panel,No,Yes,Resolved,70.38,Within a week,Student9136477,T. Nakamura
+INC0200060,2026-06-17,13,Wednesday,WIE-251,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,72.03,Within a week,Student1333092,M. Reyes
+INC0200409,2026-06-17,14,Wednesday,Unattributed,No,Unattributed,AV Technical Support,Podium PC / login,No,No,Resolved,94.9,Within a week,Faculty9667311,J. Whitfield
+INC0200280,2026-06-17,18,Wednesday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,0.35,Under 1 hour,Faculty6846286,R. Calloway
+INC0200130,2026-06-18,19,Thursday,WIE-312,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,0.13,Under 1 hour,Student4048457,M. Reyes
+INC0200334,2026-06-19,18,Friday,WIE-404,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,0.12,Under 1 hour,Faculty712311,D. Lindqvist
+INC0200392,2026-06-20,17,Saturday,WIE-537,Yes,NVX standard (2023),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,4.95,Same day (1-24h),Faculty2623650,K. Duval
+INC0200315,2026-06-21,13,Sunday,WIE-148,Yes,NVX standard (2023),AV Technical Support,Control system / touch panel,No,No,Resolved,4.58,Same day (1-24h),Staff2585215,A. Okafor
+INC0200482,2026-06-21,14,Sunday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,8.08,Same day (1-24h),Student3146508,T. Nakamura
+INC0200533,2026-06-22,11,Monday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Preventative maintenance,No,No,Resolved,409.83,Over a week,Staff2470374,T. Nakamura
+INC0200185,2026-06-23,10,Tuesday,Unattributed,No,Unattributed,Equipment Maintenance & Repair,Cabling / connectors,No,No,Resolved,16.28,Same day (1-24h),Faculty3339002,M. Reyes
+INC0200475,2026-06-23,15,Tuesday,Unattributed,No,Unattributed,AV Technical Support,No display / HDMI handshake,Yes,No,Resolved,0.07,Under 1 hour,Student9979489,R. Calloway
+INC0200644,2026-06-23,17,Tuesday,WIE-251,Yes,Legacy matrix (2017),AV Technical Support,Podium PC / login,No,No,Resolved,3.57,Same day (1-24h),Staff454124,R. Calloway
+INC0200216,2026-06-24,18,Wednesday,WIE-544,Yes,NVX standard (2023),AV Technical Support,Podium PC / login,No,No,Resolved,28.48,Within a week,Faculty3530372,A. Okafor
+INC0200495,2026-06-25,20,Thursday,Unattributed,No,Unattributed,Lecture Capture,Capture scheduling / setup,No,No,Resolved,63.37,Within a week,Staff7779667,M. Reyes
+INC0200483,2026-06-26,11,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,No display / HDMI handshake,Yes,Yes,Resolved,49.0,Within a week,Student7792108,M. Reyes
+INC0200410,2026-06-26,12,Friday,WIE-355,Yes,Legacy matrix (2017),AV Technical Support,Audio / microphone,No,No,Resolved,3.88,Same day (1-24h),Staff7651261,S. Patel
+INC0200736,2026-06-26,13,Friday,WIE-142,Yes,Legacy matrix (2017),AV Technical Support,Input switching failure,Yes,No,Resolved,6.82,Same day (1-24h),Faculty1830635,R. Calloway
+INC0200160,2026-06-26,14,Friday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,No,Resolved,17.65,Same day (1-24h),Faculty5811372,A. Okafor
+INC0200510,2026-06-26,15,Friday,WIE-258,Yes,NVX early rollout (2021),Lecture Capture,Recording failed / not captured,No,No,Resolved,75.48,Within a week,Student5540576,L. Ferreira
+INC0200335,2026-06-27,10,Saturday,WIE-404,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,182.7,Over a week,Staff5463258,T. Nakamura
+INC0200161,2026-06-28,17,Sunday,WIE-343,Yes,Legacy matrix (2017),Lecture Capture,Recording failed / not captured,No,Yes,Resolved,1.63,Same day (1-24h),Faculty7115591,T. Nakamura
+INC0200213,2026-06-29,17,Monday,WIE-246,Yes,NVX early rollout (2021),Lecture Capture,Capture scheduling / setup,No,No,Resolved,58.65,Within a week,Faculty2885425,J. Whitfield
+INC0200661,2026-06-30,10,Tuesday,Unattributed,No,Unattributed,Setup & Configuration,Event / class AV setup,No,No,Resolved,8.03,Same day (1-24h),Faculty5948412,D. Lindqvist
+INC0200007,2026-06-30,10,Tuesday,WIE-110,Yes,NVX standard (2023),Lecture Capture,Recording failed / not captured,No,No,Resolved,95.73,Within a week,Staff9164424,A. Okafor
